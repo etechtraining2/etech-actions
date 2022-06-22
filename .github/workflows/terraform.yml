@@ -47,8 +47,7 @@ name: 'Terraform'
 on:
   push:
     branches:
-    - main
-    - etechDevops-patch-1
+
   pull_request:
 
 permissions:
